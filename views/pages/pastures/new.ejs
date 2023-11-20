@@ -1,0 +1,31 @@
+<h1>Create a new Pasture Definition</h1>
+
+<form action="/pastures" method="POST">
+    <p>
+        <span>Pasture Name</span>
+        <input type="text" name="pasture_name" required placeholder="Pasture Name">
+    </p>
+    <p>
+        <span>Pasture Size (acres)</span>
+        <input type="text" name="pasture_size" required>
+    </p>
+    <p>
+        <span>Latitude</span>
+        <input type="number" name="latitude">
+    </p>
+    <p>
+        <span>Longitude</span>
+        <input type="number" name="longitude">
+    </p>
+    <p>
+        <span>Map</span>
+        <input type="text" name="map" placeholder="Map">
+    </p>
+    <p>
+        <span>Pasture Productivity (lb/ac)</span>
+        <input type="number" name="productivity">
+    </p>
+    <br />
+    <button type="submit">Create Pasture Definition</button>
+    <p><a href="/pastures">Go to List of Pastures</a></p>
+</form>

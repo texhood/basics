@@ -1,0 +1,15 @@
+<h1>The List of Pastures</h1>
+<br />
+<ul>
+    <% for (let pasture of pastures) { %>
+    <li>
+        <a href="pastures/<%= pasture.id %>"> <%= pasture.pasture_name %></a>:     
+        <span><%= pasture.pasture_size %> acres</span>
+    </li>
+    <% } %>
+</ul>
+<br />
+<br />
+<p><a href="pastures/new">Create a new Pasture Definition</a></p>
+
+<p><a href="/">Go to Home page</a></p>

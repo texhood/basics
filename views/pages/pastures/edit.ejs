@@ -1,0 +1,30 @@
+<h1>Edit a Pasture Definition</h1>
+
+<form action="/pastures/<%= pastureToBeUpdated.id %>/edit" method="POST">
+    <p>
+        <input type="text" name="pasture_name" required placeholder="Pasture Name" value="<%= pastureToBeUpdated.pasture_name %>">
+    </p>
+    <p>
+        <span>Pasture Size (acres)</span>
+        <input type="text" name="pasture_size" required value="<%= pastureToBeUpdated.pasture_size %>">
+    </p>
+    <p>
+        <span>Latitude</span>
+        <input type="number" name="latitude" value="<%= pastureToBeUpdated.latitude %>">
+    </p>
+    <p>
+        <span>Longitude</span>
+        <input type="number" name="longitude" value="<%= pastureToBeUpdated.longitude %>">
+    </p>
+    <p>
+        <span>Map</span>
+        <input type="text" name="map" placeholder="Map" value="<%= pastureToBeUpdated.map %>">
+    </p>
+    <p>
+        <span>Pasture Productivity (lb/ac)</span>
+        <input type="number" name="productivity" value="<%= pastureToBeUpdated.productivity %>">
+    </p>
+    <br />
+    <button type="submit">Update Pasture Definition</button>
+    <p><a href="/pastures">Go to List of Pastures</a></p>
+</form>
