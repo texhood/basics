@@ -125,7 +125,7 @@ module.exports = {
     // Add any attributes here as needed
     id: {
       type: 'number',
-      required: 'true'
+      required: true
     },
     type: {
       type: 'string'
@@ -178,51 +178,52 @@ module.exports = {
       maxRedirects: 20
     };
 
+    // Start fetching the products
+    // fetchProducts(options);
+    this.fetchProducts(options);
+  },
+
+  //
+  fetchProducts: function (options) {
     let hasNextPage = true;
     let nextPageCursor = '';
+    const req = https.request(options, (res) => {
+      const chunks = [];
 
-    fetchProducts () => {
-      const req = https.request(options, (res) => {
-        const chunks = [];
-
-        res.on('data', (chunk) => {
-          chunks.push(chunk);
-        });
-
-        res.on('end', () => {
-          const products = Buffer.concat(chunks);
-          hasNextPage = products.pagination.hasNextPage;
-          nextPageCursor = products.pagination.nextPageCursor;
-          options.path = `${process.env.SQUARESPACE_PATH}=${nextPageCursor}`;
-    
-          products.forEach(function toDB(product) {
-            this.create(
-              product.id,
-              product.type,
-              product.storepageId,
-              product.name,
-              product.description,
-              product.url,
-              product.urlSlug,
-              product.isVisible,
-              product.variantAttributes,
-              product.seoOptions);
-          });
-
-          if (hasNextPage) {
-            // Fetch the next page of products recursively
-            fetchProducts();
-          } else {
-            // Return success indicating that all products were retrieved
-            return exits.success();
-          }
-        });
-        req.end();
+      res.on('data', (chunk) => {
+        chunks.push(chunk);
       });
 
-      // Start fetching the products
-      fetchProducts();
-    };
+      res.on('end', () => {
+        const products = Buffer.concat(chunks);
+        hasNextPage = products.pagination.hasNextPage;
+        nextPageCursor = products.pagination.nextPageCursor;
+        options.path = `${process.env.SQUARESPACE_PATH}=${nextPageCursor}`;
+  
+        products.forEach(function toDB(product) {
+          this.create(
+            product.id,
+            product.type,
+            product.storepageId,
+            product.name,
+            product.description,
+            product.url,
+            product.urlSlug,
+            product.isVisible,
+            product.variantAttributes,
+            product.seoOptions);
+        });
+
+        if (hasNextPage) {
+          // Fetch the next page of products recursively
+          fetchProducts();
+        } else {
+          // Return success indicating that all products were retrieved
+          return exits.success();
+        }
+      });
+      req.end();
+    });
   },
 
   // Custom function to fetch and create products in the database

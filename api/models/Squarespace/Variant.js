@@ -57,7 +57,7 @@ module.exports = {
   attributes: {
     id: {
       type: 'number',
-      required: 'true'
+      required: true
     },
     sku: {
       type: 'string'

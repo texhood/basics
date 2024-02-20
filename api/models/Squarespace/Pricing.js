@@ -8,8 +8,12 @@
 module.exports = {
 
   attributes: {
+    id: {
+      type: 'string',
+      required: true
+    },
     basePrice: {
-      collection: 'BsePrice'
+      collection: 'BasePrice'
     },
     salePrice: {
       collection: 'SalePrice'

@@ -24,18 +24,18 @@ module.exports = {
     //  ╩ ╩╚═╝╚═╝╚═╝╚═╝╩╩ ╩ ╩ ╩╚═╝╝╚╝╚═╝
     id: {
       type: 'number',
-      required: 'true'
+      required: true
     },
     altText: {
       type: 'string'
     },
     orderIndex: {
       type: 'string'
-      // isInteger: 'true'
+      // isInteger: true
     },
     url: {
       type: 'string',
-      required: 'true'
+      required: true
     },
     originalSize: {
       type: 'string'
