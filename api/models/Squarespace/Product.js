@@ -113,7 +113,7 @@
 // const request = require('request');
 const https = require('follow-redirects').https;
 // const { promisify } = require('util');
-require('dotenv').config({ path: '././TEST.env' });
+require('dotenv').config({ path: '././.env' });
 
 module.exports = {
 
@@ -166,25 +166,26 @@ module.exports = {
     
   },
 
-  getProducts: () => {
+  getProducts: function () {
     const options = {
       method: process.env.SQUARESPACE_METHOD,
       hostname: process.env.SQUARESPACE_HOSTNAME,
       path: process.env.SQUARESPACE_PATH,
       headers: {
-        'Authorization': process.env.SQUARESPACE_AUTHORIZATION,
-        'User-Agent': process.env.SQUARESPACE_USER_AGENT
+        'Authorization': process.env.SQUARESPACE_HEADER_AUTHORIZATION,
+        'User-Agent': process.env.SQUARESPACE_HEADER_USER_AGENT
       },
       maxRedirects: 20
     };
 
+    //console.log(options);
     // Start fetching the products
-    // fetchProducts(options);
     this.fetchProducts(options);
   },
 
   //
   fetchProducts: function (options) {
+    console.log(options);
     let hasNextPage = true;
     let nextPageCursor = '';
     const req = https.request(options, (res) => {
@@ -200,19 +201,18 @@ module.exports = {
         nextPageCursor = products.pagination.nextPageCursor;
         options.path = `${process.env.SQUARESPACE_PATH}=${nextPageCursor}`;
   
-        products.forEach(function toDB(product) {
-          this.create(
-            product.id,
-            product.type,
-            product.storepageId,
-            product.name,
-            product.description,
-            product.url,
-            product.urlSlug,
-            product.isVisible,
-            product.variantAttributes,
-            product.seoOptions);
-        });
+        products.createEach(
+          products.id,
+          products.type,
+          products.storepageId,
+          products.name,
+          products.description,
+          products.url,
+          products.urlSlug,
+          products.isVisible,
+          products.variantAttributes,
+          products.seoOptions
+        );
 
         if (hasNextPage) {
           // Fetch the next page of products recursively
