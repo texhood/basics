@@ -55,8 +55,8 @@ module.exports = {
           // This section should be rewritten to use Product.createEach() to push the fetched data into a relational datastore
 
           // Write the fetched data to a file
-          const filePath = '/Sandbox/Projects/DataFiles/SquarespaceProducts.json';
-          appendFileAsync(filePath, JSON.stringify(products))
+          //const filePath = '/Sandbox/Projects/DataFiles/SquarespaceProducts.json';
+          Product.createEach(products.products)
             .then(() => {
               // Log the retrieved products
               //console.log(products);
@@ -75,7 +75,7 @@ module.exports = {
                 fetchProducts();
               } else {
                 // Return success indicating that all products were retrieved
-                return exits.success();
+                return Product.find();
               }
             })
             .catch((error) => {
