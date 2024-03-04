@@ -1,0 +1,16 @@
+<h1>The List of Orders</h1>
+<br />
+<p><a href="/">Go to Home page</a></p>
+<br />
+<ul>
+    <% for (let order of orders) { %>
+    <li>
+        <a href="squarespace/<%= order.seqNum %>"> <%= order.seqNum %></a>:     
+        <span><%= order.orderNumber %> Order Number</span>
+    </li>
+    <% } %>
+</ul>
+<br />
+<br />
+
+<p><a href="/">Go to Home page</a></p>

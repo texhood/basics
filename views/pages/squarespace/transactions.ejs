@@ -1,0 +1,17 @@
+<h1>The List of Transactions</h1>
+<br />
+<p><a href="/">Go to Home page</a></p>
+<br />
+<ul>
+    <% for (let transaction of transactions) { %>
+    <li>
+        <a href="squarespace/<%= transaction.seqNum %>"> <%= transaction.seqNum %></a>:     
+        <span><%= transaction.id %></span>
+        <span><%= transaction.customerEmail %></span>
+    </li>
+    <% } %>
+</ul>
+<br />
+<br />
+
+<p><a href="/">Go to Home page</a></p>

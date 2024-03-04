@@ -1,0 +1,5921 @@
+[ {
+    "id" : "616b272e59df7522d40ddad9",
+    "orderNumber" : "2228",
+    "createdOn" : "2021-10-16T19:25:31.613Z",
+    "modifiedOn" : "2021-10-16T19:25:34.154Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "lizneu0420@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Elizabeth",
+      "lastName" : "Neuman",
+      "address1" : "2826 Greenwood Lane",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "3058031430"
+    },
+    "shippingAddress" : {
+      "firstName" : "Elizabeth",
+      "lastName" : "Neuman",
+      "address1" : "2826 Greenwood Lane",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "3058031430"
+    },
+    "fulfillmentStatus" : "PENDING",
+    "lineItems" : [ {
+      "id" : "616b26b49b1b4148076e7125",
+      "variantId" : "d4cd33e6-cdaf-452c-87f4-461b3c725abc",
+      "sku" : "SQ9515441",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "6163837a5d6ba039a3495ff2",
+      "productName" : "Grass Fed Grass Finished Quarter Beef",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "200.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6163837a5d6ba039a3495ff4/1610929199223/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "616b26c8bd47bb2d1657fe9d",
+      "variantId" : "ff07d974-e10f-4c7a-b3e3-eae1e1c45df4",
+      "sku" : "SQ8317243",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5ef650a63b796e4eadd93a97",
+      "productName" : "Grass Fed Lamb",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "200.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : [ {
+        "label" : "Please detail any custom cuts you'd like beyond what was listed (leave blank if their are no additional requests).",
+        "value" : ""
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5efcfecbe9ab696e2aa362f3/1593638901493/rack+of+lamb.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "ROSECITY FARMER'S MARKET PICKUP SATURDAYS 8AM-12PM",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (305) 803-1430"
+    }, {
+      "label" : "Select",
+      "value" : "Within 10 miles of downtown Tyler - Saturday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ ],
+    "subtotal" : {
+      "value" : "400.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "400.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : null,
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616adae47cde816435b85aab",
+    "orderNumber" : "2227",
+    "createdOn" : "2021-10-16T14:00:01.823Z",
+    "modifiedOn" : "2021-10-16T15:20:53.720Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "matthew.serventi@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Sarah",
+      "lastName" : "Serventi",
+      "address1" : "2003 hilltop drive",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Matthew",
+      "lastName" : "Serventi",
+      "address1" : "200 Belmead Lane",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "9179216130"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e7f5383d6fbed7437c13bea",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T15:20:53Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T15:20:53.719Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6165d9a4250da132f6929269",
+    "orderNumber" : "2214",
+    "createdOn" : "2021-10-12T18:53:22.220Z",
+    "modifiedOn" : "2021-10-16T15:20:33.905Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kjcbabin@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Kathy",
+      "lastName" : "Babin",
+      "address1" : "200 BELMEAD LN",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Kathy",
+      "lastName" : "Babin",
+      "address1" : "200 BELMEAD LN",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "606cab61429f8e77b9ccf5b4",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 520-1529"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T15:20:33Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T15:20:33.904Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61661213d466eb0debc4c5c1",
+    "orderNumber" : "2216",
+    "createdOn" : "2021-10-12T22:54:09.282Z",
+    "modifiedOn" : "2021-10-16T15:20:17.806Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "alexiasalvarez@yahoo.com",
+    "billingAddress" : {
+      "firstName" : "Alexia",
+      "lastName" : "Alvarez",
+      "address1" : "2267 Pinnacle Circle",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75703",
+      "phone" : "(903) 360-2082"
+    },
+    "shippingAddress" : {
+      "firstName" : "Alexia",
+      "lastName" : "Alvarez",
+      "address1" : "2267 Pinnacle Circle",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75703",
+      "phone" : "(903) 360-2082"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5febb06b5c5b690602b4ccdc",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "IG"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 360-2082"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of Bullard Fridays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T15:20:17Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T15:20:17.804Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616a3db37cde816435b82d14",
+    "orderNumber" : "2225",
+    "createdOn" : "2021-10-16T02:49:21.234Z",
+    "modifiedOn" : "2021-10-16T14:54:49.136Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "gracie.skubal@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Gracie",
+      "lastName" : "Skubal",
+      "address1" : "8701 FM 279",
+      "address2" : null,
+      "city" : "Edom",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75756",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Gracie",
+      "lastName" : "Skubal",
+      "address1" : "5590 Fm 858",
+      "address2" : null,
+      "city" : "Ben Wheeler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75754",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "616a2dfb4fa3a0560a61358f",
+      "variantId" : "9ad102d8-522d-43e4-8ed7-19824e009664",
+      "sku" : "SQ8642991",
+      "weight" : 1.0,
+      "width" : 4.0,
+      "length" : 6.0,
+      "height" : 2.0,
+      "productId" : "5ef776d8df03ed5901e35a80",
+      "productName" : "Boneless Skinless Chicken Breast",
+      "quantity" : 6,
+      "unitPricePaid" : {
+        "value" : "11.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "2 pack"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c1e57ece1450b888e4e1/1616364482636/Tuscan+Chicken+Breast.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "616a2f09b6448a457b95de8f",
+      "variantId" : "ffea021e-05cd-4975-88ca-d89e8022517c",
+      "sku" : "SQ3514169",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f847ab5a81ce452b709dcaa",
+      "productName" : "Grass Fed Beef Chuck 7 Bone Roast",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "32.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "2-2.5lbs"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f847ab5a81ce452b709dcac/1602520256503/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "616a3b71a4a355709a09d377",
+      "variantId" : "dc806cf3-b692-4388-9f61-6f0f3372c9a7",
+      "sku" : "SQ5664312",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f22321b06f7f57d83c38021",
+      "productName" : "Grass Fed Ground Beef",
+      "quantity" : 4,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "1 lb"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f223d238d3b39319450ce2a/1602511227075/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "ROSECITY FARMER'S MARKET PICKUP SATURDAYS 8AM-12PM",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 805-2295"
+    }, {
+      "label" : "Select",
+      "value" : "Rose City Farmer's Market Saturday 8am-12pm"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T14:54:49Z",
+      "carrierName" : "Market pickup",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "138.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "138.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T14:54:49.135Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616740e48b2911769bb8030a",
+    "orderNumber" : "2219",
+    "createdOn" : "2021-10-13T20:26:10.405Z",
+    "modifiedOn" : "2021-10-16T14:44:12.893Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "duckielb@hotmail.com",
+    "billingAddress" : {
+      "firstName" : "jessica",
+      "lastName" : "erbaugh",
+      "address1" : "304 Princess Drive",
+      "address2" : null,
+      "city" : "Whitehouse",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "(903) 245-8134"
+    },
+    "shippingAddress" : {
+      "firstName" : "jessica",
+      "lastName" : "erbaugh",
+      "address1" : "304 Princess Drive",
+      "address2" : null,
+      "city" : "Whitehouse",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "(903) 245-8134"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6036a3ff2d04dd7dfe3add4e",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Nicholas Charest"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 245-8134"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T14:44:12Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T14:44:12.891Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6167c653a1cf286ed013fa1e",
+    "orderNumber" : "2221",
+    "createdOn" : "2021-10-14T05:55:29.313Z",
+    "modifiedOn" : "2021-10-16T14:43:57.588Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "apriebe@me.com",
+    "billingAddress" : {
+      "firstName" : "Anna",
+      "lastName" : "Priebe",
+      "address1" : "4218 Lazy Creek Drive",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "5089632528"
+    },
+    "shippingAddress" : {
+      "firstName" : "Anna",
+      "lastName" : "Priebe",
+      "address1" : "4218 Lazy Creek Drive",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "5089632528"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e84253f42489f0848729a5a",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : "Paul phone: 508-641-5003"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T14:43:57Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T14:43:57.587Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6168d9e071cc7a73244b1526",
+    "orderNumber" : "2223",
+    "createdOn" : "2021-10-15T01:31:09.954Z",
+    "modifiedOn" : "2021-10-16T14:43:28.164Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "sadie.capps@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Sadie",
+      "lastName" : "Neally",
+      "address1" : "2105 County Road 3802",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "9038052151"
+    },
+    "shippingAddress" : {
+      "firstName" : "Sadie",
+      "lastName" : "Neally",
+      "address1" : "2105 County Road 3802",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "9038052151"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6168cfb0b38c6760807ab681",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of the Woodlands mall"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Farm Pickup by Appointment",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "FB"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 805-2151"
+    }, {
+      "label" : "Select",
+      "value" : "On Farm Pickup by Appointment"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T14:43:28Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "6.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "6.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T14:43:28.163Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61678745d466eb0debc5c83d",
+    "orderNumber" : "2220",
+    "createdOn" : "2021-10-14T01:26:27.376Z",
+    "modifiedOn" : "2021-10-16T13:30:07.815Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "shelbijoy@att.net",
+    "billingAddress" : {
+      "firstName" : "Shelbi",
+      "lastName" : "Joy",
+      "address1" : "372 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "9034525500"
+    },
+    "shippingAddress" : {
+      "firstName" : "Shelbi",
+      "lastName" : "Joy",
+      "address1" : "372 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "9034525500"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e9f97e5a0e3db0992401fb4",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T13:30:06Z",
+      "carrierName" : "Good Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T13:30:07.814Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6165fcf21abaa80edee46080",
+    "orderNumber" : "2215",
+    "createdOn" : "2021-10-12T21:24:00.116Z",
+    "modifiedOn" : "2021-10-16T13:29:42.443Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kace10702@yahoo.con",
+    "billingAddress" : {
+      "firstName" : "Kaci",
+      "lastName" : "Brown",
+      "address1" : "321 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Kaci",
+      "lastName" : "Brown",
+      "address1" : "321 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5feb9979af581c29b47b1dcb",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Bullard Area - Fridays except 1/1 moved to 12/31",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Friend"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 520-1892"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of Bullard Fridays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T13:29:41Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T13:29:42.442Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61658bf5250da132f6923f79",
+    "orderNumber" : "2211",
+    "createdOn" : "2021-10-12T13:21:54.893Z",
+    "modifiedOn" : "2021-10-16T13:29:20.394Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "lcunningham118@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Linda M",
+      "lastName" : "Cunningham",
+      "address1" : "129 Lake Lou Ella Drive",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "3618150504"
+    },
+    "shippingAddress" : {
+      "firstName" : "Linda M",
+      "lastName" : "Cunningham",
+      "address1" : "129 Lake Lou Ella Drive",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "3618150504"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e95b721a346b6031f5ebfe7",
+      "variantId" : "74dbb496-c70e-4b90-b082-6ca802f28121",
+      "sku" : "SQ2669262",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "15.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Three Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T13:29:19Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "15.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "15.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T13:29:20.392Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616439d5b0116f321ba83b6a",
+    "orderNumber" : "2206",
+    "createdOn" : "2021-10-11T13:19:16.164Z",
+    "modifiedOn" : "2021-10-16T13:28:56.691Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "roberta.ozan@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Roberta",
+      "lastName" : "Ozan",
+      "address1" : "2724 Hemingway",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "9033306716"
+    },
+    "shippingAddress" : {
+      "firstName" : "Roberta",
+      "lastName" : "Ozan",
+      "address1" : "2724 Hemingway",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "9033306716"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "605897457ff8335e3a1f80b1",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 330-6716"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T13:28:54Z",
+      "carrierName" : "",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T13:28:56.690Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61624d908295b80ddd053b4a",
+    "orderNumber" : "2201",
+    "createdOn" : "2021-10-10T02:18:53.625Z",
+    "modifiedOn" : "2021-10-16T13:28:28.782Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "lindsey_castro@hotmail.com",
+    "billingAddress" : {
+      "firstName" : "Lindsey",
+      "lastName" : "Castro",
+      "address1" : "18650 Highmeadow Circle",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "9039206771"
+    },
+    "shippingAddress" : {
+      "firstName" : "Lindsey",
+      "lastName" : "Castro",
+      "address1" : "18650 Highmeadow Circle",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "9039206771"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6031c1280b2772069e482820",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "My mom"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 920-6771"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T13:28:27Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T13:28:28.781Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61664a2ad466eb0debc4ec1f",
+    "orderNumber" : "2217",
+    "createdOn" : "2021-10-13T02:53:28.358Z",
+    "modifiedOn" : "2021-10-16T13:27:52.062Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "jpf1111@hotmail.com",
+    "billingAddress" : {
+      "firstName" : "Jon",
+      "lastName" : "Freeman",
+      "address1" : "17176 Ironwood Drive",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "8175281573"
+    },
+    "shippingAddress" : {
+      "firstName" : "Jon",
+      "lastName" : "Freeman",
+      "address1" : "17176 Ironwood Drive",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "8175281573"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "60b6e9f6869b4a2e02b07a19",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area FRIDAY 5/14",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Google"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (817) 528-1573"
+    }, {
+      "label" : "Select",
+      "value" : "Within 10 miles of Bullard - Friday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Please knock at door doorbell not working, if not we can look outside the door several times during the day"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-16T13:27:51Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T13:27:52.055Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616acba659df7522d40da0df",
+    "orderNumber" : "2226",
+    "createdOn" : "2021-10-16T12:55:00.398Z",
+    "modifiedOn" : "2021-10-16T12:55:02.558Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "trish@darrdentistry.com",
+    "billingAddress" : {
+      "firstName" : "Tom",
+      "lastName" : "Gruppi",
+      "address1" : "1902 Warwick Circle East",
+      "address2" : null,
+      "city" : "Longview",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75601",
+      "phone" : ""
+    },
+    "shippingAddress" : null,
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "616acba4a8a6ea08fd7cb7b4",
+      "variantId" : "363d57ce-fb7b-44aa-bbb7-cbc9c333e88b",
+      "sku" : "SQ8172676",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e742b61b149a10a9c4ff6e0",
+      "productName" : "Friends of the Farm Gift Card",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "100.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5e742b988edc593a9e82d125/1584671690003/IMG_1326.JPG",
+      "lineItemType" : "GIFT_CARD"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ ],
+    "discountLines" : [ ],
+    "formSubmission" : null,
+    "fulfillments" : [ ],
+    "subtotal" : {
+      "value" : "100.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "100.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-16T12:55:02.558Z",
+    "priceTaxInterpretation" : "INCLUSIVE"
+  }, {
+    "id" : "6169acdc3597b11d7bc8a2d0",
+    "orderNumber" : "2224",
+    "createdOn" : "2021-10-15T16:31:22.589Z",
+    "modifiedOn" : "2021-10-15T17:13:53.560Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kimmiebird6@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Kimberly",
+      "lastName" : "Rowden",
+      "address1" : "16956 FM 756",
+      "address2" : null,
+      "city" : "WHITEHOUSE",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "9032588815"
+    },
+    "shippingAddress" : {
+      "firstName" : "Kim",
+      "lastName" : "Rowden",
+      "address1" : "16956 FM 756",
+      "address2" : null,
+      "city" : "Whitehouse",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "9032588815"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "600af5c31ce4ce7fb1a75bce",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 258-8815"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of Bullard Fridays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Gate code 7560#. Leave at front door."
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-15T17:13:46Z",
+      "carrierName" : "",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    }, {
+      "shipDate" : "2021-10-15T17:13:53Z",
+      "carrierName" : "",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-15T17:13:53.559Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6166e512a1cf286ed0134574",
+    "orderNumber" : "2218",
+    "createdOn" : "2021-10-13T13:54:24.273Z",
+    "modifiedOn" : "2021-10-15T17:13:17.461Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "ncharest@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Nicholas",
+      "lastName" : "Charest",
+      "address1" : "2847 GUINN FARMS RD",
+      "address2" : "-",
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "8067879859"
+    },
+    "shippingAddress" : {
+      "firstName" : "Nicholas",
+      "lastName" : "Charest",
+      "address1" : "2847 GUINN FARMS RD",
+      "address2" : "-",
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "8067879859"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5f748a77d8c2b168241d9266",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Facebook Ad"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (806) 787-9859"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-15T17:13:17Z",
+      "carrierName" : "",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-15T17:13:17.460Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6168905c8c740c3225e25263",
+    "orderNumber" : "2222",
+    "createdOn" : "2021-10-14T20:17:29.845Z",
+    "modifiedOn" : "2021-10-14T20:17:32.456Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kellym2215@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Kelly",
+      "lastName" : "Moser",
+      "address1" : "3524 Greenbrier Drive",
+      "address2" : null,
+      "city" : "Dallas",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75225",
+      "phone" : "214-924-3142"
+    },
+    "shippingAddress" : {
+      "firstName" : "Kelly",
+      "lastName" : "Moser",
+      "address1" : "3524 Greenbrier Drive",
+      "address2" : null,
+      "city" : "Dallas",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75225",
+      "phone" : "214-924-3142"
+    },
+    "fulfillmentStatus" : "PENDING",
+    "lineItems" : [ {
+      "id" : "61688ec197340f3ba0882fa8",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 2,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of Downtown Dallas"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61688edb76539d52efe892ef",
+      "variantId" : "9ad102d8-522d-43e4-8ed7-19824e009664",
+      "sku" : "SQ8642991",
+      "weight" : 1.0,
+      "width" : 4.0,
+      "length" : 6.0,
+      "height" : 2.0,
+      "productId" : "5ef776d8df03ed5901e35a80",
+      "productName" : "Boneless Skinless Chicken Breast",
+      "quantity" : 3,
+      "unitPricePaid" : {
+        "value" : "11.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "2 pack"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c1e57ece1450b888e4e1/1616364482636/Tuscan+Chicken+Breast.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61688ef997340f3ba0883770",
+      "variantId" : "54d42ee4-3276-48b8-b262-c71bfa646d3a",
+      "sku" : "SQ7887564",
+      "weight" : 1.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5eecaa75fc557a429eb29f9e",
+      "productName" : "Ground Chicken",
+      "quantity" : 4,
+      "unitPricePaid" : {
+        "value" : "8.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5eecaa75fc557a429eb29fa0/1592862797538/Pasture+Raised+on+a+Regenerative+Farm+Label.png?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61688f2c651ae96384dae8c6",
+      "variantId" : "cf1fe78c-132f-4615-8351-6af2b4583b00",
+      "sku" : "SQ2765170",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f1219000fdb626dd02425aa",
+      "productName" : "Hood Family Farms Reusable Insulated Bag",
+      "quantity" : 2,
+      "unitPricePaid" : {
+        "value" : "12.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "1 bag"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f121a1ac34145235adda2bf/1595106540560/Insulated+Bag.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61688f5476539d52efe8aab2",
+      "variantId" : "dc806cf3-b692-4388-9f61-6f0f3372c9a7",
+      "sku" : "SQ5664312",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f22321b06f7f57d83c38021",
+      "productName" : "Grass Fed Ground Beef",
+      "quantity" : 3,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "1 lb"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f223d238d3b39319450ce2a/1602511227075/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61688f6e5bd04a29c9d24269",
+      "variantId" : "772c7256-7d9d-4bef-a88b-1869df346e21",
+      "sku" : "SQ4522565",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5ebf184758b70360aef24307",
+      "productName" : "Salsa Fresca",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "8.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "9 oz"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5ebf18f7927d073bad719121/1589582135435/A0C7F33C-C33B-4C64-B3FF-C5F57783DBED?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61688f8c5702f450a4b7657a",
+      "variantId" : "b2a7731e-27ce-4866-ad55-329733d443d7",
+      "sku" : "SQ2500622",
+      "weight" : 1.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f2419017b00946be9759515",
+      "productName" : "Chicken Sausage",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "9.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "1 lb",
+        "value" : "Mild"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f2e272d578819120ad2dc28/1596860227076/AEEA10E1-8616-4570-8B47-0547A5B0A26F?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY DALLAS AREA 10/20/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "D Magazine"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (214) 924-3142"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of downtown Dallas every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ ],
+    "subtotal" : {
+      "value" : "148.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "148.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : null,
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616588ee8086e35169460b63",
+    "orderNumber" : "2210",
+    "createdOn" : "2021-10-12T13:09:00.620Z",
+    "modifiedOn" : "2021-10-14T12:06:54.951Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "rkpeterson@reagan.com",
+    "billingAddress" : {
+      "firstName" : "Rebecca",
+      "lastName" : "Peterson",
+      "address1" : "10407 Cromdale Manor Court",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "8152600272"
+    },
+    "shippingAddress" : {
+      "firstName" : "Rebecca",
+      "lastName" : "Peterson",
+      "address1" : "10407 Cromdale Manor Court",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "8152600272"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6165886e2cd80430c965d7ac",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of the Woodlands mall"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 10/13/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Facebook"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (815) 260-0272"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-14T12:06:54Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "6.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "6.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-14T12:06:54.950Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6160ede7743407028228c881",
+    "orderNumber" : "2199",
+    "createdOn" : "2021-10-09T01:18:29.170Z",
+    "modifiedOn" : "2021-10-13T20:14:13.551Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "debbie287@aol.com",
+    "billingAddress" : {
+      "firstName" : "Deborah",
+      "lastName" : "Silver",
+      "address1" : "9119 Cedar Run Falls",
+      "address2" : null,
+      "city" : "TOMBALL",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77375",
+      "phone" : "7133984092"
+    },
+    "shippingAddress" : {
+      "firstName" : "Deborah",
+      "lastName" : "Silver",
+      "address1" : "9119 Cedar Run Falls",
+      "address2" : null,
+      "city" : "TOMBALL",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77375",
+      "phone" : "7133984092"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "60bacd184171037c92cdbe20",
+      "variantId" : "2a8cbfe4-bd90-4813-8f5e-c9f98dd6296b",
+      "sku" : "SQ6790540",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e65aac4c20640121be61da6",
+      "productName" : "Bi-Weekly Subscription Spring, TX Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 15 miles of The Woodlands Mall?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057bad21f8001702f36bd00/1616362261213/helena+1.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 06/09/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Live in my neighborhood!"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (713) 398-4092"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Ok :)"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T20:14:13Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T20:14:13.549Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615cb18ffb387a7c8be52837",
+    "orderNumber" : "2190",
+    "createdOn" : "2021-10-05T20:11:57.237Z",
+    "modifiedOn" : "2021-10-13T20:14:02.479Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "buckleymd2@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Mary",
+      "lastName" : "Buckley",
+      "address1" : "24219 Rocky Brook Falls",
+      "address2" : null,
+      "city" : "Tomball",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77375",
+      "phone" : "281-217-2210"
+    },
+    "shippingAddress" : {
+      "firstName" : "Mary",
+      "lastName" : "Buckley",
+      "address1" : "24219 Rocky Brook Falls",
+      "address2" : null,
+      "city" : "Tomball",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77375",
+      "phone" : "281-217-2210"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "610065fbbaebd547356b1b5c",
+      "variantId" : "225399c1-59ca-44f3-bb9f-d95e3f984bc8",
+      "sku" : "SQ5356648",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e65aac4c20640121be61da6",
+      "productName" : "Bi-Weekly Subscription Spring, TX Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 15 miles of The Woodlands Mall?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057bad21f8001702f36bd00/1616362261213/helena+1.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 08/04/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (281) 217-2210"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T20:14:02Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T20:14:02.478Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61649bd31abaa80edee3576b",
+    "orderNumber" : "2207",
+    "createdOn" : "2021-10-11T20:17:20.435Z",
+    "modifiedOn" : "2021-10-13T19:38:48.114Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "burtchr@sbcglobal.net",
+    "billingAddress" : {
+      "firstName" : "Janice",
+      "lastName" : "Burtch",
+      "address1" : "10427 Kilbride Way Court",
+      "address2" : null,
+      "city" : "Klein",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-253-5778"
+    },
+    "shippingAddress" : {
+      "firstName" : "Janice",
+      "lastName" : "Burtch",
+      "address1" : "10427 Kilbride Way Court",
+      "address2" : null,
+      "city" : "Klein",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-253-5778"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "61649b1894cde148c8fb2a1b",
+      "variantId" : "e63f8993-a603-4fe8-98a4-eae3ac21eabf",
+      "sku" : "SQ7143096",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f6a332f340f437e8d956a78",
+      "productName" : "Grass Fed Rack of Lamb - Frenched",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "36.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f6ff3ff36b37d25b6ea808a/1601172546874/rack+of+lamb.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 10/13/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (281) 253-5778"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "I will put a cooler bag out for you-Thank you"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:38:47Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "36.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "36.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:38:48.112Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61636d86743407028229d7d7",
+    "orderNumber" : "2203",
+    "createdOn" : "2021-10-10T22:47:32.382Z",
+    "modifiedOn" : "2021-10-13T19:38:34.673Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "burtchr@sbcglobal.net",
+    "billingAddress" : {
+      "firstName" : "Janice",
+      "lastName" : "Burtch",
+      "address1" : "10427 Kilbride Way Court",
+      "address2" : null,
+      "city" : "Klein",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-253-5778"
+    },
+    "shippingAddress" : {
+      "firstName" : "Janice",
+      "lastName" : "Burtch",
+      "address1" : "10427 Kilbride Way Court",
+      "address2" : null,
+      "city" : "Klein",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-253-5778"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e6d5a45ea160c0c829b4d73",
+      "variantId" : "2a8cbfe4-bd90-4813-8f5e-c9f98dd6296b",
+      "sku" : "SQ6790540",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e65aac4c20640121be61da6",
+      "productName" : "Bi-Weekly Houston Egg Subscription",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5e65ab520a1d4b4e74328e5e/1583721351146/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Spring, TX delivery 3/18/2020",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:38:34Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:38:34.672Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6150fec8c950045ccb55f303",
+    "orderNumber" : "2161",
+    "createdOn" : "2021-09-26T23:14:14.555Z",
+    "modifiedOn" : "2021-10-13T19:38:05.300Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "burtchr@sbcglobal.net",
+    "billingAddress" : {
+      "firstName" : "Janice",
+      "lastName" : "Burtch",
+      "address1" : "10427 Kilbride Way Court",
+      "address2" : null,
+      "city" : "Klein",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-253-5778"
+    },
+    "shippingAddress" : {
+      "firstName" : "Janice",
+      "lastName" : "Burtch",
+      "address1" : "10427 Kilbride Way Court",
+      "address2" : null,
+      "city" : "Klein",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-253-5778"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6150fe956bfbca0dd177d89d",
+      "variantId" : "aadf93ff-7f94-4d72-8a04-9d637c1e3b9b",
+      "sku" : "SQ3741314",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f6a327de835f47f6c620581",
+      "productName" : "Grass Fed Lamb Loin Chops",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "26.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f7b54040b5c777d09558de5/1610218545847/chops.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 09/29/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (281) 253-5778"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:38:05Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "26.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "26.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:38:05.299Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6150be959e572b314494d404",
+    "orderNumber" : "2158",
+    "createdOn" : "2021-09-26T18:40:18.832Z",
+    "modifiedOn" : "2021-10-13T19:37:40.430Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "rkpeterson@reagan.com",
+    "billingAddress" : {
+      "firstName" : "Rebecca",
+      "lastName" : "Peterson",
+      "address1" : "10407 Cromdale Manor Court",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "8152600272"
+    },
+    "shippingAddress" : {
+      "firstName" : "Rebecca",
+      "lastName" : "Peterson",
+      "address1" : "10407 Cromdale Manor Court",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "8152600272"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6150be01db27015246b91606",
+      "variantId" : "1b404bae-0401-43b0-9a63-aa10063e392d",
+      "sku" : "SQ6922242",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5fde53521c66f52f5f8594bb",
+      "productName" : "Grass Fed Beef Short Ribs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "15.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5fde53521c66f52f5f8594bd/1608486716403/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6150be01db27015246b9160b",
+      "variantId" : "1f23b25f-1ef4-4e77-a3f1-072788d626a9",
+      "sku" : "SQ1803267",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f847e22820ade5b73647242",
+      "productName" : "Grass Fed Beef Rump Roast",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "20.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f847e22820ade5b73647244/1602520248115/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 09/29/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (815) 260-0272"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Please leave in cooler"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:37:40Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "35.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "35.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:37:40.429Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6163990d2085b770214fb43e",
+    "orderNumber" : "2204",
+    "createdOn" : "2021-10-11T01:53:14.666Z",
+    "modifiedOn" : "2021-10-13T19:28:33.587Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "tinaerales@me.com",
+    "billingAddress" : {
+      "firstName" : "Tina",
+      "lastName" : "Erales",
+      "address1" : "1406 Earlington Manor Court",
+      "address2" : null,
+      "city" : "SPRING",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-910-8229"
+    },
+    "shippingAddress" : {
+      "firstName" : "Tina",
+      "lastName" : "Erales",
+      "address1" : "1406 Earlington Manor Court",
+      "address2" : null,
+      "city" : "SPRING",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "281-910-8229"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6163987f4cce6c7e7d4d797e",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of the Woodlands mall"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 10/13/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (281) 910-8229"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:28:33Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "6.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "6.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:28:33.585Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "616597381abaa80edee3f21a",
+    "orderNumber" : "2212",
+    "createdOn" : "2021-10-12T14:09:57.923Z",
+    "modifiedOn" : "2021-10-13T19:25:05.773Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "caraghlamb@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Caragh",
+      "lastName" : "Lamb",
+      "address1" : "1139 Arden Forest Drive",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "8327678558"
+    },
+    "shippingAddress" : {
+      "firstName" : "Caragh",
+      "lastName" : "Lamb",
+      "address1" : "1139 Arden Forest Drive",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "8327678558"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6165962fb6932244aab51d38",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 2,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of the Woodlands mall"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "616596682868da43ee6d3c5b",
+      "variantId" : "6c0edc48-affd-47ca-8aad-731793ca8a20",
+      "sku" : "SQ9760682",
+      "weight" : 1.1,
+      "width" : 7.0,
+      "length" : 5.0,
+      "height" : 2.0,
+      "productId" : "5f9f7e22b069a61163667831",
+      "productName" : "Chicken Thighs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "12.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c55dbdcfde506f4d2e02/1616365089385/stuffed%2Bchicken.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "616596be9637e43b43e97949",
+      "variantId" : "aadf93ff-7f94-4d72-8a04-9d637c1e3b9b",
+      "sku" : "SQ3741314",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f6a327de835f47f6c620581",
+      "productName" : "Grass Fed Lamb Loin Chops",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "26.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f7b54040b5c777d09558de5/1610218545847/chops.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 10/13/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (832) 767-8558"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:25:05Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "50.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "50.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:25:05.772Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6162f641b0116f321ba78941",
+    "orderNumber" : "2202",
+    "createdOn" : "2021-10-10T14:18:39.941Z",
+    "modifiedOn" : "2021-10-13T19:18:02.395Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "jacquelineelisecheramie@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Jacqueline",
+      "lastName" : "Bourg",
+      "address1" : "9334 Lochflora Drive",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "(504) 330-1774"
+    },
+    "shippingAddress" : {
+      "firstName" : "Jacqueline",
+      "lastName" : "Bourg",
+      "address1" : "9334 Lochflora Drive",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "(504) 330-1774"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e89e7e89b6208253a6cb7ce",
+      "variantId" : "2a8cbfe4-bd90-4813-8f5e-c9f98dd6296b",
+      "sku" : "SQ6790540",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e65aac4c20640121be61da6",
+      "productName" : "Bi-Weekly Subscription Spring, TX Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of The Woodlands Mall?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5e65ab520a1d4b4e74328e5e/1583721351146/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Houston, TX delivery 4/15/2020",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:18:02Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:18:02.394Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6164e1a78086e3516945c3ed",
+    "orderNumber" : "2208",
+    "createdOn" : "2021-10-12T01:15:16.791Z",
+    "modifiedOn" : "2021-10-13T19:12:58.209Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "lstevel@ymail.com",
+    "billingAddress" : {
+      "firstName" : "Linda",
+      "lastName" : "Stevens",
+      "address1" : "19 Dove Manor Court",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Linda",
+      "lastName" : "Stevens",
+      "address1" : "19 Dove Manor Court",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6164e09f8ba6b2792674b479",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of the Woodlands mall"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6164e0f64b4b5f59c4cb81ae",
+      "variantId" : "c04bf5ed-64df-457a-a593-c2e082a2ffd3",
+      "sku" : "0024",
+      "weight" : 1.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e28",
+      "productName" : "Zucchini and Toasted Walnut Bread",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "12.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Medium (4-6 Serviungs)"
+      } ],
+      "customizations" : [ {
+        "label" : "",
+        "value" : "Nuts are OK"
+      }, {
+        "label" : "Please list any special requests:",
+        "value" : ""
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5d9a97a464d4b90d465bb116/1571789481513/zucchini+bread.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Spring/Houston, TX 10/13/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (713) 775-6640"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of The Woodlands Mall every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-13T19:12:57Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "18.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "18.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-13T19:12:58.207Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6165b7858086e35169463e7f",
+    "orderNumber" : "2213",
+    "createdOn" : "2021-10-12T16:27:43.917Z",
+    "modifiedOn" : "2021-10-12T22:05:31.595Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kd10338@aol.com",
+    "billingAddress" : {
+      "firstName" : "Krista",
+      "lastName" : "Darr",
+      "address1" : "5 Meadowchase Trail",
+      "address2" : null,
+      "city" : "Longview",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75605",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Krista",
+      "lastName" : "Darr",
+      "address1" : "5 Meadowchase Trail",
+      "address2" : null,
+      "city" : "Longview",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75605",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6165b599ade09338c14aa86c",
+      "variantId" : "9ad102d8-522d-43e4-8ed7-19824e009664",
+      "sku" : "SQ8642991",
+      "weight" : 1.0,
+      "width" : 4.0,
+      "length" : 6.0,
+      "height" : 2.0,
+      "productId" : "5ef776d8df03ed5901e35a80",
+      "productName" : "Boneless Skinless Chicken Breast",
+      "quantity" : 4,
+      "unitPricePaid" : {
+        "value" : "11.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "2 pack"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c1e57ece1450b888e4e1/1616364482636/Tuscan+Chicken+Breast.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Farm Pickup by Appointment",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "FRIENDS OF HOOD FAMILY"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 452-0925"
+    }, {
+      "label" : "Select",
+      "value" : "On Farm Pickup by Appointment"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "ROBIN WILL BRING TO HIS DENTAL APPOINTMENT TODAY"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-12T22:05:31Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "44.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "44.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-12T22:05:31.594Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615a5a587e1e8c1d2b77c8d3",
+    "orderNumber" : "2185",
+    "createdOn" : "2021-10-04T01:35:18.354Z",
+    "modifiedOn" : "2021-10-12T22:05:17.580Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "julz5295@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Jeana Darr Dentistry",
+      "lastName" : "Speed",
+      "address1" : "230 Beall Lane",
+      "address2" : null,
+      "city" : "LONGVIEW",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75604",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Jeana Darr Dentistry",
+      "lastName" : "Speed",
+      "address1" : "230 Beall Lane",
+      "address2" : null,
+      "city" : "LONGVIEW",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75604",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "615a5967b40bec28e051367d",
+      "variantId" : "9ad102d8-522d-43e4-8ed7-19824e009664",
+      "sku" : "SQ8642991",
+      "weight" : 1.0,
+      "width" : 4.0,
+      "length" : 6.0,
+      "height" : 2.0,
+      "productId" : "5ef776d8df03ed5901e35a80",
+      "productName" : "Boneless Skinless Chicken Breast",
+      "quantity" : 4,
+      "unitPricePaid" : {
+        "value" : "11.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "2 pack"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c1e57ece1450b888e4e1/1616364482636/Tuscan+Chicken+Breast.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Farm Pickup by Appointment",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 239-2160"
+    }, {
+      "label" : "Select",
+      "value" : "On Farm Pickup by Appointment"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Darr Dentistry"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-12T22:05:17Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "44.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "44.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-12T22:05:17.579Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61657d0d1abaa80edee3dbc4",
+    "orderNumber" : "2209",
+    "createdOn" : "2021-10-12T12:18:19.981Z",
+    "modifiedOn" : "2021-10-12T12:18:21.891Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "mpjones7815@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Mary Pat",
+      "lastName" : "Rodriguez",
+      "address1" : "6167 Palo Pinto Ave",
+      "address2" : null,
+      "city" : "Dallas",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75214",
+      "phone" : "972-626-2918"
+    },
+    "shippingAddress" : {
+      "firstName" : "Mary Pat",
+      "lastName" : "Rodriguez",
+      "address1" : "6167 Palo Pinto Ave",
+      "address2" : null,
+      "city" : "Dallas",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75214",
+      "phone" : "972-626-2918"
+    },
+    "fulfillmentStatus" : "PENDING",
+    "lineItems" : [ {
+      "id" : "61657cb14b4b5f59c4d38004",
+      "variantId" : "332c9e5f-2e26-4808-ba0b-fcc19bd5a5a3",
+      "sku" : "SQ9345658",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e8df2bd8b69466ee3a72707",
+      "productName" : "Jam Bars - bite sized",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "8.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Flavor",
+        "value" : "Raspberry"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5e8df46c9e20450d3b4a26c8/1586361474823/IMG_6683.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61657cb5b389d5259d1ba876",
+      "variantId" : "0f4d3bcf-b1e4-40b5-bb1e-e66006ff8d6b",
+      "sku" : "SQ3184007",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e8df2bd8b69466ee3a72707",
+      "productName" : "Jam Bars - bite sized",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "8.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Flavor",
+        "value" : "Blackberry"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5e8df46c9e20450d3b4a26c8/1586361474823/IMG_6683.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "61657cca27d3a0332c73feb3",
+      "variantId" : "6b59dfc2-826e-45fd-93a7-f300920b0b0a",
+      "sku" : "0022",
+      "weight" : 3.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e26",
+      "productName" : "Spiced Pumpkin Bread",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "20.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "size",
+        "value" : "Large (10-12 Servings)"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f733da4fcf22b7803f128f8/1601387980455/pumpkin+bread+1.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY DALLAS AREA 10/20/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (972) 626-2918"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of downtown Dallas every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ ],
+    "subtotal" : {
+      "value" : "36.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "36.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : null,
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61639ef22085b770214fb700",
+    "orderNumber" : "2205",
+    "createdOn" : "2021-10-11T02:18:24.501Z",
+    "modifiedOn" : "2021-10-11T02:18:26.483Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "mpjones7815@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Mary Pat",
+      "lastName" : "Rodriguez",
+      "address1" : "6167 Palo Pinto Ave",
+      "address2" : null,
+      "city" : "Dallas",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75214",
+      "phone" : "972-626-2918"
+    },
+    "shippingAddress" : {
+      "firstName" : "Mary Pat",
+      "lastName" : "Rodriguez",
+      "address1" : "6167 Palo Pinto Ave",
+      "address2" : null,
+      "city" : "Dallas",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75214",
+      "phone" : "972-626-2918"
+    },
+    "fulfillmentStatus" : "PENDING",
+    "lineItems" : [ {
+      "id" : "60861b8d2b347c1a0fbfcf3c",
+      "variantId" : "9f701744-123c-4ad0-9978-a79ffb9ea21d",
+      "sku" : "SQ0201028",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "6057bb1512354e76345e5e66",
+      "productName" : "Bi-Weekly Subscription Dallas, TX Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 15 miles of Downtown Dallas?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057bb1512354e76345e5e6b/1616362262855/IMG_6430.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY DALLAS AREA 05/05/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (972) 626-2918"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Dallas every other Wed."
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : null,
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6153b38d4ddcc95cca97c883",
+    "orderNumber" : "2170",
+    "createdOn" : "2021-09-29T00:30:03.799Z",
+    "modifiedOn" : "2021-10-11T01:09:38.366Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "jimmy.mcanally@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Jimmy",
+      "lastName" : "McAnally",
+      "address1" : "20006 Gunters Ridge Drive",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "832-928-4796"
+    },
+    "shippingAddress" : {
+      "firstName" : "Jimmy",
+      "lastName" : "McAnally",
+      "address1" : "20006 Gunters Ridge Drive",
+      "address2" : null,
+      "city" : "Spring",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "77379",
+      "phone" : "832-928-4796"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e83dc3ca40bd81b423343ff",
+      "variantId" : "2a8cbfe4-bd90-4813-8f5e-c9f98dd6296b",
+      "sku" : "SQ6790540",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5e65aac4c20640121be61da6",
+      "productName" : "Bi-Weekly Subscription Spring, TX Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of The Woodlands Mall?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5e65ab520a1d4b4e74328e5e/1583721351146/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Houston, TX delivery 4/1/2020",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-11T01:09:38.364Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615b034f7e1e8c1d2b782440",
+    "orderNumber" : "2186",
+    "createdOn" : "2021-10-04T13:36:14.054Z",
+    "modifiedOn" : "2021-10-10T02:34:48.339Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "roberta.ozan@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Roberta",
+      "lastName" : "Ozan",
+      "address1" : "2724 Hemingway",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "9033306716"
+    },
+    "shippingAddress" : {
+      "firstName" : "Roberta",
+      "lastName" : "Ozan",
+      "address1" : "2724 Hemingway",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "9033306716"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "605897457ff8335e3a1f80b1",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 330-6716"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-10T02:34:47Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-10T02:34:48.337Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615daecbfb387a7c8be5c093",
+    "orderNumber" : "2194",
+    "createdOn" : "2021-10-06T14:12:25.218Z",
+    "modifiedOn" : "2021-10-10T02:34:31.269Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "ncharest@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Nicholas",
+      "lastName" : "Charest",
+      "address1" : "2847 GUINN FARMS RD",
+      "address2" : "-",
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "8067879859"
+    },
+    "shippingAddress" : {
+      "firstName" : "Nicholas",
+      "lastName" : "Charest",
+      "address1" : "2847 GUINN FARMS RD",
+      "address2" : "-",
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "8067879859"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5f748a77d8c2b168241d9266",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Facebook Ad"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (806) 787-9859"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-10T02:34:29Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-10T02:34:31.267Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615e88f156b931341d3546c9",
+    "orderNumber" : "2197",
+    "createdOn" : "2021-10-07T05:43:11.691Z",
+    "modifiedOn" : "2021-10-10T02:34:00.213Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "apriebe@me.com",
+    "billingAddress" : {
+      "firstName" : "Anna",
+      "lastName" : "Priebe",
+      "address1" : "4218 Lazy Creek Drive",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "5089632528"
+    },
+    "shippingAddress" : {
+      "firstName" : "Anna",
+      "lastName" : "Priebe",
+      "address1" : "4218 Lazy Creek Drive",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75707",
+      "phone" : "5089632528"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e84253f42489f0848729a5a",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : "Paul phone: 508-641-5003"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-10T02:33:59Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-10T02:34:00.212Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615c55ab2725071b25170ab8",
+    "orderNumber" : "2188",
+    "createdOn" : "2021-10-05T13:39:53.282Z",
+    "modifiedOn" : "2021-10-09T15:00:45.350Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "lcunningham118@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Linda M",
+      "lastName" : "Cunningham",
+      "address1" : "129 Lake Lou Ella Drive",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "3618150504"
+    },
+    "shippingAddress" : {
+      "firstName" : "Linda M",
+      "lastName" : "Cunningham",
+      "address1" : "129 Lake Lou Ella Drive",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "3618150504"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e95b721a346b6031f5ebfe7",
+      "variantId" : "74dbb496-c70e-4b90-b082-6ca802f28121",
+      "sku" : "SQ2669262",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "15.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Three Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T15:00:45Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "15.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "15.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T15:00:45.349Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615e49dac0f297613077ad01",
+    "orderNumber" : "2196",
+    "createdOn" : "2021-10-07T01:14:00.133Z",
+    "modifiedOn" : "2021-10-09T15:00:25.564Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "shelbijoy@att.net",
+    "billingAddress" : {
+      "firstName" : "Shelbi",
+      "lastName" : "Joy",
+      "address1" : "372 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "9034525500"
+    },
+    "shippingAddress" : {
+      "firstName" : "Shelbi",
+      "lastName" : "Joy",
+      "address1" : "372 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : "9034525500"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e9f97e5a0e3db0992401fb4",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T15:00:25Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T15:00:25.563Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61619dab2085b770214eca4d",
+    "orderNumber" : "2200",
+    "createdOn" : "2021-10-09T13:48:25.603Z",
+    "modifiedOn" : "2021-10-09T15:00:06.884Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "matthew.serventi@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Sarah",
+      "lastName" : "Serventi",
+      "address1" : "2003 hilltop drive",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Matthew",
+      "lastName" : "Serventi",
+      "address1" : "200 Belmead Lane",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : "9179216130"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5e7f5383d6fbed7437c13bea",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "Local Pickup Bullard or Tyler area",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "Note / Additional Info",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T15:00:06Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T15:00:06.883Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615e0399c8f3a2305b7b0ed2",
+    "orderNumber" : "2195",
+    "createdOn" : "2021-10-06T20:14:15.640Z",
+    "modifiedOn" : "2021-10-09T14:59:47.295Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "duckielb@hotmail.com",
+    "billingAddress" : {
+      "firstName" : "jessica",
+      "lastName" : "erbaugh",
+      "address1" : "304 Princess Drive",
+      "address2" : null,
+      "city" : "Whitehouse",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "(903) 245-8134"
+    },
+    "shippingAddress" : {
+      "firstName" : "jessica",
+      "lastName" : "erbaugh",
+      "address1" : "304 Princess Drive",
+      "address2" : null,
+      "city" : "Whitehouse",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "(903) 245-8134"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6036a3ff2d04dd7dfe3add4e",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Nicholas Charest"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 245-8134"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:59:47Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:59:47.294Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615d0ce99d98f9415e059fd0",
+    "orderNumber" : "2193",
+    "createdOn" : "2021-10-06T02:41:43.272Z",
+    "modifiedOn" : "2021-10-09T14:59:29.805Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "jpf1111@hotmail.com",
+    "billingAddress" : {
+      "firstName" : "Jon",
+      "lastName" : "Freeman",
+      "address1" : "17176 Ironwood Drive",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "8175281573"
+    },
+    "shippingAddress" : {
+      "firstName" : "Jon",
+      "lastName" : "Freeman",
+      "address1" : "17176 Ironwood Drive",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "8175281573"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "60b6e9f6869b4a2e02b07a19",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area FRIDAY 5/14",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Google"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (817) 528-1573"
+    }, {
+      "label" : "Select",
+      "value" : "Within 10 miles of Bullard - Friday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Please knock at door doorbell not working, if not we can look outside the door several times during the day"
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:59:29Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:59:29.804Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615cdb989d98f9415e057c43",
+    "orderNumber" : "2192",
+    "createdOn" : "2021-10-05T23:11:18.803Z",
+    "modifiedOn" : "2021-10-09T14:59:13.340Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "alexiasalvarez@yahoo.com",
+    "billingAddress" : {
+      "firstName" : "Alexia",
+      "lastName" : "Alvarez",
+      "address1" : "2267 Pinnacle Circle",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75703",
+      "phone" : "(903) 360-2082"
+    },
+    "shippingAddress" : {
+      "firstName" : "Alexia",
+      "lastName" : "Alvarez",
+      "address1" : "2267 Pinnacle Circle",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75703",
+      "phone" : "(903) 360-2082"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5febb06b5c5b690602b4ccdc",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "IG"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 360-2082"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of Bullard Fridays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:59:13Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:59:13.339Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615cbf762de09411cb3dcc1c",
+    "orderNumber" : "2191",
+    "createdOn" : "2021-10-05T21:11:16.106Z",
+    "modifiedOn" : "2021-10-09T14:58:57.829Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kace10702@yahoo.con",
+    "billingAddress" : {
+      "firstName" : "Kaci",
+      "lastName" : "Brown",
+      "address1" : "321 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Kaci",
+      "lastName" : "Brown",
+      "address1" : "321 Kwando Lane",
+      "address2" : null,
+      "city" : "Bullard",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75757",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "5feb9979af581c29b47b1dcb",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Bullard Area - Fridays except 1/1 moved to 12/31",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Friend"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 520-1892"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of Bullard Fridays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:58:57Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:58:57.828Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615ca34e2bd34960c5d9a9c9",
+    "orderNumber" : "2189",
+    "createdOn" : "2021-10-05T19:11:08.849Z",
+    "modifiedOn" : "2021-10-09T14:58:40.097Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kjcbabin@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Kathy",
+      "lastName" : "Babin",
+      "address1" : "200 BELMEAD LN",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : ""
+    },
+    "shippingAddress" : {
+      "firstName" : "Kathy",
+      "lastName" : "Babin",
+      "address1" : "200 BELMEAD LN",
+      "address2" : null,
+      "city" : "TYLER",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75701",
+      "phone" : null
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "606cab61429f8e77b9ccf5b4",
+      "variantId" : "3a9b13aa-b8d3-415a-8eb9-b4cd27909d04",
+      "sku" : "0006",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "5.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 520-1529"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:58:39Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "5.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:58:40.093Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615b4b480d70350816cb9d3f",
+    "orderNumber" : "2187",
+    "createdOn" : "2021-10-04T18:43:18.476Z",
+    "modifiedOn" : "2021-10-09T14:58:20.260Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "clintsellers9@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Clinton",
+      "lastName" : "Sellers",
+      "address1" : "6519 Rochester Way",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75703",
+      "phone" : "3187309243"
+    },
+    "shippingAddress" : {
+      "firstName" : "Clinton",
+      "lastName" : "Sellers",
+      "address1" : "6519 Rochester Way",
+      "address2" : null,
+      "city" : "Tyler",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75703",
+      "phone" : "3187309243"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "615b4a79c0c3c07e68a806fa",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 3,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of Downtown Tyler"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY TYLER AREA (EVERY SATURDAY)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Friend"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (318) 730-9243"
+    }, {
+      "label" : "Select",
+      "value" : "Within 10 miles of downtown Tyler - Saturday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:58:20Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "18.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "18.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:58:20.259Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "615917132ad02b461ce32192",
+    "orderNumber" : "2182",
+    "createdOn" : "2021-10-03T02:36:00.957Z",
+    "modifiedOn" : "2021-10-09T14:58:00.358Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "lindsey_castro@hotmail.com",
+    "billingAddress" : {
+      "firstName" : "Lindsey",
+      "lastName" : "Castro",
+      "address1" : "18650 Highmeadow Circle",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "9039206771"
+    },
+    "shippingAddress" : {
+      "firstName" : "Lindsey",
+      "lastName" : "Castro",
+      "address1" : "18650 Highmeadow Circle",
+      "address2" : null,
+      "city" : "Flint",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75762",
+      "phone" : "9039206771"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6031c1280b2772069e482820",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "My mom"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 920-6771"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of downtown Tyler Saturdays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-09T14:58:00Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-09T14:58:00.357Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "61606f5da238cc24e63e33cd",
+    "orderNumber" : "2198",
+    "createdOn" : "2021-10-08T16:18:35.965Z",
+    "modifiedOn" : "2021-10-08T17:23:37.564Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "kimmiebird6@gmail.com",
+    "billingAddress" : {
+      "firstName" : "Kimberly",
+      "lastName" : "Rowden",
+      "address1" : "16956 FM 756",
+      "address2" : null,
+      "city" : "WHITEHOUSE",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "9032588815"
+    },
+    "shippingAddress" : {
+      "firstName" : "Kim",
+      "lastName" : "Rowden",
+      "address1" : "16956 FM 756",
+      "address2" : null,
+      "city" : "Whitehouse",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75791",
+      "phone" : "9032588815"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "600af5c31ce4ce7fb1a75bce",
+      "variantId" : "2b8619d1-8cf1-4c33-af8a-227a15731cfe",
+      "sku" : "SQ9798051",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5d839d561ee7f012e8428e1a",
+      "productName" : "Weekly Subscription Tyler Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size Options",
+        "value" : "Two Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 20 miles of Bullard, TX?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5da384ad3dfd360e6222e1f1/1578095595490/9C0A1469-E357-4D24-9464-D4A2D612A707?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY Tyler area (Every Saturday)",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (903) 258-8815"
+    }, {
+      "label" : "Select",
+      "value" : "Within 20 miles of Bullard Fridays"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : "Gate code 7560#. Leave at front door."
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-08T17:23:36Z",
+      "carrierName" : "",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "10.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-08T17:23:37.563Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6159e77c7e1e8c1d2b7783b3",
+    "orderNumber" : "2184",
+    "createdOn" : "2021-10-03T17:25:14.341Z",
+    "modifiedOn" : "2021-10-07T12:41:54.324Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "saragane79@gmail.com",
+    "billingAddress" : {
+      "firstName" : "sara",
+      "lastName" : "ganeian",
+      "address1" : "5340 monterey dr",
+      "address2" : null,
+      "city" : "frisco",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75034",
+      "phone" : "9729482320"
+    },
+    "shippingAddress" : {
+      "firstName" : "sara",
+      "lastName" : "ganeian",
+      "address1" : "5340 monterey dr",
+      "address2" : null,
+      "city" : "frisco",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75034",
+      "phone" : "9729482320"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "6159e606d49dda2e10c4e29f",
+      "variantId" : "6e1a03f7-433b-4268-aa24-177e876ee124",
+      "sku" : "SQ2473188",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5dfee5f08c6e911e4ff44d48",
+      "productName" : "Pasture Raised Eggs - One Dozen",
+      "quantity" : 5,
+      "unitPricePaid" : {
+        "value" : "6.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "One Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Please confirm that you live within one of our delivery zones",
+        "value" : "15 miles of the Woodlands mall"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5dfee6277f83a564191dac88/1576986159364/eggs+2.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6159e62fee5f2a37762b3a18",
+      "variantId" : "ebcbf20d-b67c-43dc-ae92-261758591f9c",
+      "sku" : "SQ2351582",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5ef77acdb7918e0088e7b261",
+      "productName" : "Chicken Tenders",
+      "quantity" : 5,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "6 pack"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5ef77acdb7918e0088e7b263/1593536096402/chicken+logo+white+background.png?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6159e64237180f62d8a7abe7",
+      "variantId" : "9ad102d8-522d-43e4-8ed7-19824e009664",
+      "sku" : "SQ8642991",
+      "weight" : 1.0,
+      "width" : 4.0,
+      "length" : 6.0,
+      "height" : 2.0,
+      "productId" : "5ef776d8df03ed5901e35a80",
+      "productName" : "Boneless Skinless Chicken Breast",
+      "quantity" : 8,
+      "unitPricePaid" : {
+        "value" : "11.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "2 pack"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c1e57ece1450b888e4e1/1616364482636/Tuscan+Chicken+Breast.JPG?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6159e6622ca7d263a960043b",
+      "variantId" : "241ed996-7c56-405a-987d-ba368e10fa1c",
+      "sku" : "SQ1031436",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f9f8130c73af0034bace9c1",
+      "productName" : "Chicken Drumsticks",
+      "quantity" : 2,
+      "unitPricePaid" : {
+        "value" : "12.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/60a9c414d9e07e2ed6eaeb4d/1621738535596/2D4813CA-EDC3-42DA-BD2A-48B77A8622E3?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6159e6c0500951376df51c6c",
+      "variantId" : "dc806cf3-b692-4388-9f61-6f0f3372c9a7",
+      "sku" : "SQ5664312",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "5f22321b06f7f57d83c38021",
+      "productName" : "Grass Fed Ground Beef",
+      "quantity" : 4,
+      "unitPricePaid" : {
+        "value" : "10.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "1 lb"
+      } ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/5f223d238d3b39319450ce2a/1602511227075/beef+preorder.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    }, {
+      "id" : "6159e6f7e1c7883408cb9820",
+      "variantId" : "6c0edc48-affd-47ca-8aad-731793ca8a20",
+      "sku" : "SQ9760682",
+      "weight" : 1.1,
+      "width" : 7.0,
+      "length" : 5.0,
+      "height" : 2.0,
+      "productId" : "5f9f7e22b069a61163667831",
+      "productName" : "Chicken Thighs",
+      "quantity" : 3,
+      "unitPricePaid" : {
+        "value" : "12.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ ],
+      "customizations" : null,
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057c55dbdcfde506f4d2e02/1616365089385/stuffed%2Bchicken.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY DALLAS AREA 10/06/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : ""
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (972) 948-2320"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of downtown Dallas every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-07T12:41:53Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "268.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "268.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-07T12:41:54.322Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  }, {
+    "id" : "6159c7547e1e8c1d2b777042",
+    "orderNumber" : "2183",
+    "createdOn" : "2021-10-03T15:08:02.619Z",
+    "modifiedOn" : "2021-10-07T12:41:17.128Z",
+    "channel" : "web",
+    "testmode" : false,
+    "customerEmail" : "valeriya.k@protonmail.com",
+    "billingAddress" : {
+      "firstName" : "Valeriya",
+      "lastName" : "Khodatovych",
+      "address1" : "3100 Painted Lake Circle",
+      "address2" : null,
+      "city" : "The Colony",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75056",
+      "phone" : "8177181027"
+    },
+    "shippingAddress" : {
+      "firstName" : "Valeriya",
+      "lastName" : "Khodatovych",
+      "address1" : "3100 Painted Lake Circle",
+      "address2" : null,
+      "city" : "The Colony",
+      "state" : "TX",
+      "countryCode" : "US",
+      "postalCode" : "75056",
+      "phone" : "8177181027"
+    },
+    "fulfillmentStatus" : "FULFILLED",
+    "lineItems" : [ {
+      "id" : "60afb1c9ffd4330942585bef",
+      "variantId" : "0a2d736b-1406-4661-a9f3-1215c843a095",
+      "sku" : "SQ0593198",
+      "weight" : 0.0,
+      "width" : 0.0,
+      "length" : 0.0,
+      "height" : 0.0,
+      "productId" : "6057bb1512354e76345e5e66",
+      "productName" : "Bi-Weekly Subscription Dallas, TX Area - Pasture Raised Eggs",
+      "quantity" : 1,
+      "unitPricePaid" : {
+        "value" : "25.00",
+        "currency" : "USD"
+      },
+      "variantOptions" : [ {
+        "optionName" : "Size",
+        "value" : "Five Dozen"
+      } ],
+      "customizations" : [ {
+        "label" : "Do you live within 15 miles of Downtown Dallas?",
+        "value" : "Yes"
+      } ],
+      "imageUrl" : "https://static1.squarespace.com/static/5cb69ab47a1fbd701676934b/5d839d561ee7f012e8428e0e/6057bb1512354e76345e5e6b/1616362262855/IMG_6430.jpg?format=300w",
+      "lineItemType" : "PHYSICAL_PRODUCT"
+    } ],
+    "internalNotes" : [ ],
+    "shippingLines" : [ {
+      "method" : "DELIVERY DALLAS AREA 06/02/2021",
+      "amount" : {
+        "value" : "0.00",
+        "currency" : "USD"
+      }
+    } ],
+    "discountLines" : [ ],
+    "formSubmission" : [ {
+      "label" : "How did you hear about us? ",
+      "value" : "Google search"
+    }, {
+      "label" : "Best Mobile Number for us to reach you with delivery questions",
+      "value" : " (817) 718-1027"
+    }, {
+      "label" : "Select",
+      "value" : "Within 15 miles of downtown Dallas every other Wednesday"
+    }, {
+      "label" : "Please let us know if you have any additional delivery instructions here:",
+      "value" : ""
+    } ],
+    "fulfillments" : [ {
+      "shipDate" : "2021-10-07T12:41:16Z",
+      "carrierName" : "Hood Family Farms personal delivery ",
+      "service" : null,
+      "trackingNumber" : null,
+      "trackingUrl" : ""
+    } ],
+    "subtotal" : {
+      "value" : "25.00",
+      "currency" : "USD"
+    },
+    "shippingTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "discountTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "taxTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "refundedTotal" : {
+      "value" : "0.00",
+      "currency" : "USD"
+    },
+    "grandTotal" : {
+      "value" : "25.00",
+      "currency" : "USD"
+    },
+    "channelName" : "Squarespace",
+    "externalOrderReference" : null,
+    "fulfilledOn" : "2021-10-07T12:41:17.127Z",
+    "priceTaxInterpretation" : "EXCLUSIVE"
+  } ]

@@ -1,8 +1,6 @@
 // Synchronous version. Async version did not run, probably because n+1th and following recusrions
 // contained undefined pagination and cursor variables.
 const https = require('follow-redirects').https;
-const fs = require('fs');
-const { promisify } = require('util');
 require('dotenv').config({ path: '././.env' });
 
 module.exports = {
@@ -14,7 +12,8 @@ module.exports = {
   exits: {
     success: {
       description: 'The products were successfully retrieved',
-      viewTemplatePath: 'pages/squarespace/products'
+      //responseType: 'redirect'
+      viewTemplatePath: '/pages/homepage'
     },
     error: {
       description: 'An error occurred, no Products were retrieved',
@@ -24,21 +23,19 @@ module.exports = {
 
   fn: function (_, exits) {
     const options = {
-        method: `${process.env.SQUARESPACE_METHOD}`,
-        hostname: `${process.env.SQUARESPACE_HOSTNAME}`,
-        path: `${process.env.SQUARESPACE_PRODUCT_PATH}`,
-        headers: {
-          'Authorization': `${process.env.SQUARESPACE_HEADER_AUTHORIZATION}`,
-          'User-Agent': `${process.env.SQUARESPACE_HEADER_USER_AGENT}`
-        },
-        maxRedirects: 20
-      };
+      method: `${process.env.SQUARESPACE_METHOD}`,
+      hostname: `${process.env.SQUARESPACE_HOSTNAME}`,
+      path: `${process.env.SQUARESPACE_PRODUCT_PATH}`,
+      headers: {
+        'Authorization': `${process.env.SQUARESPACE_HEADER_AUTHORIZATION}`,
+        'User-Agent': `${process.env.SQUARESPACE_HEADER_USER_AGENT}`
+      },
+      maxRedirects: 20
+    };
 
     // console.log(options);
     let hasNextPage = true;
     let nextPageCursor = '';
-
-    const appendFileAsync = promisify(fs.appendFile);
 
     const fetchProducts = () => {
       const req = https.request(options, (res) => {
@@ -52,10 +49,6 @@ module.exports = {
           const body = Buffer.concat(chunks);
           const products = JSON.parse(body.toString());
 
-          // This section should be rewritten to use Product.createEach() to push the fetched data into a relational datastore
-
-          // Write the fetched data to a file
-          //const filePath = '/Sandbox/Projects/DataFiles/SquarespaceProducts.json';
           Product.createEach(products.products)
             .then(() => {
               // Log the retrieved products
@@ -68,25 +61,20 @@ module.exports = {
               options.path = `/1.0/commerce/products?cursor=${nextPageCursor}`;
               console.log('Path: ', options.path);
               
-              // const { seqNum } = Product.createEach(products).fetch();
-              
               if (hasNextPage) {
                 // Fetch the next page of products recursively
                 fetchProducts();
               } else {
                 // Return success indicating that all products were retrieved
-                return Product.find();
+                req.end();
+                return exits.success();
               }
             })
             .catch((error) => {
               console.error(error);
               return exits.error(error);
             });
-
-            // end of section to convert
-
         });
-
         res.on('error', (error) => {
           console.error(error);
           return exits.error(error);

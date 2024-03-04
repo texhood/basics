@@ -113,8 +113,8 @@
 
 module.exports = {
 
-  datastore: 'default',
-  // datastore: 'financials',
+  // datastore: 'default',
+  datastore: 'financials',
   tableName: 'items',
 
   attributes: {
@@ -133,7 +133,8 @@ module.exports = {
       type: 'string'
     },
     description: {
-      type: 'string'
+      type: 'string',
+      columnType: 'varchar(5000)'
     },
     url: {
       type: 'string'

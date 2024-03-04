@@ -1,0 +1,16 @@
+<h1>The List of Products</h1>
+<br />
+<p><a href="/">Go to Home page</a></p>
+<br />
+<ul>
+    <% for (let product of products) { %>
+    <li>
+        <a href="squarespace/<%= product.seqNum %>"> <%= product.seqNum %></a>:     
+        <span><%= product.name %> Name</span>
+    </li>
+    <% } %>
+</ul>
+<br />
+<br />
+
+<p><a href="/">Go to Home page</a></p>

@@ -19,15 +19,19 @@ module.exports.routes = {
   *                                                                          *
   ***************************************************************************/
 
-  '/':                              'homepage',
-  '/pastures':                      'pastures/view-pastures',
-  'POST /pastures':                 'pastures/create-pasture',
-  'GET /pastures/:id':              'pastures/view-pasture',
-  'GET /pastures/new':              'pastures/view-new',
-  'GET /pastures/:id/edit':         'pastures/view-edit',
-  'POST /pastures/:id/delete':      'pastures/delete-pasture',
-  'GET /squarespace/get_products':  'squarespace/fetch-products-to-file'
-
+  '/':                                  'homepage',
+  '/pastures':                          'pastures/view-pastures',
+  'POST /pastures':                    'pastures/create-pasture',
+  'GET /pastures/:id':                  'pastures/view-pasture',
+  'GET /pastures/new':                  'pastures/view-new',
+  'GET /pastures/:id/edit':             'pastures/view-edit',
+  'POST /pastures/:id/delete':          'pastures/delete-pasture',
+  'GET /squarespace/get_products':      'squarespace/get-products',
+  'GET /squarespace/products':          'squarespace/view-products',
+  'GET /squarespace/get_orders':        'squarespace/get-orders',
+  'GET /squarespace/orders':            'squarespace/view-orders',
+  'GET /squarespace/get_transactions':  'squarespace/get-transactions',
+  'GET /squarespace/transactions':      'squarespace/view-transactions',
 
 
   /***************************************************************************

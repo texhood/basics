@@ -35,7 +35,7 @@ module.exports.models = {
   *                                                                          *
   ***************************************************************************/
 
-  // schema: true,
+  schema: true,
 
 
   /***************************************************************************
@@ -53,7 +53,7 @@ module.exports.models = {
   *                                                                          *
   ***************************************************************************/
 
-  migrate: 'alter',
+  migrate: 'drop',
 
 
   /***************************************************************************
@@ -69,8 +69,16 @@ module.exports.models = {
   ***************************************************************************/
 
   attributes: {
-    createdAt: { type: 'number', autoCreatedAt: true, },
-    updatedAt: { type: 'number', autoUpdatedAt: true, },
+    createdAt: { 
+      type: 'number', 
+      autoCreatedAt: true,
+      //columnType: 'date'
+    },
+    updatedAt: {
+      type: 'number',
+      autoUpdatedAt: true,
+      //columnType: 'date'
+    },
     seqNum: { type: 'number', autoIncrement: true, },
     //--------------------------------------------------------------------------
     //  /\   Using MongoDB?
